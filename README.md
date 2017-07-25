@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System 💉🌡💊
 
 This is a Simple Java Standalone Application which was created as a solution to SCS2104 - Programming III module. And here I haven't used any design patterns such as MVC etc since this is my very first stand alone application.
 
@@ -14,19 +14,19 @@ recorded. A separate register is to be held to store information of tests undert
 of a prescribed treatment. A number of tests may be conducted for each patient. Each patient
 is assigned to one leading consultant, but may be examined by another doctor, if required.
 Doctors are specialists in some branch of medicine and may be leading consultants for a
-number of patients, not necessarily from the same ward.
+number of patients, not necessarily from the same ward. 🏥
 
 Payment details of each patient needs to be recorded separately. The hospital management
 requires to maintain the details of the employees of the hospital (Doctors, Nurses, Maintenance
 staff etc.) The attendance of the employees needs to be recorded in order to process their
-salaries.
+salaries. 📋 📊 💵
 
 _Implement a stand-alone application for the above scenario
 The system must be implemented based on the object orientation concepts and database
 connectivity in Java. You may design user interfaces according to your solution._
 
 
-**Pull requests are welcome**
+**Pull requests are welcome!!** 🙂
 
 
 
